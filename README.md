@@ -1,5 +1,5 @@
 # react-leaf-carousel
-React simple infinite carousel with lazy loading and responsive support.
+React simple infinite carousel with lazy loading and responsive support
 
 ![alt text](https://media.giphy.com/media/c3U4ThLGqJSAU/giphy.gif)
 
